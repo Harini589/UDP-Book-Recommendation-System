@@ -1,0 +1,39 @@
+
+[
+    {
+        "id": 1,
+        "title": "The Hobbit",
+        "author": "J.R.R. Tolkien",
+        "genre": "fantasy"
+    },
+    {
+        "id": 2,
+        "title": "Harry Potter and the Philosopher's Stone",
+        "author": "J.K. Rowling",
+        "genre": "fantasy"
+    },
+    {
+        "id": 3,
+        "title": "Pride and Prejudice",
+        "author": "Jane Austen",
+        "genre": "romance"
+    },
+    {
+        "id": 4,
+        "title": "The Alchemist",
+        "author": "Paulo Coelho",
+        "genre": "fiction"
+    },
+    {
+        "id": 5,
+        "title": "Wings of Fire",
+        "author": "A.P.J. Abdul Kalam",
+        "genre": "biography"
+    },
+    {
+        "id": 6,
+        "title": "Murder on the Orient Express",
+        "author": "Agatha Christie",
+        "genre": "mystery"
+    }
+]
